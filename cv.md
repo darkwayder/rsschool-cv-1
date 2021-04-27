@@ -25,4 +25,4 @@ At this moment I study Kotlin.
 **Bachelor degree:** I graduated with honors from National Research Tomsk Polytechnic University, Department of Petroleum engineering at 2017. **Average score: 4.96**.
 ## 8. English 
 **English level: B2**.
-I have passed exam Pearson Test of English General (CEFR B2).
+I have passed exam Pearson Test of English General (CEFR B2)..
